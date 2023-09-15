@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 
-##Technology Used
+## Technology Used
 
 ![WhatsApp Image 2023-09-15 at 14 11 45](https://github.com/mallikarjunadinesh/INTEL/assets/105496214/54cbede0-ef12-4cc1-a8b4-328ab2402417)
 
@@ -15,9 +15,10 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
-- [Technologies Used](#technologies-used)
+- [DataSet](#Dataset)
+- [Technologies Used](#TechnologyUsed)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
